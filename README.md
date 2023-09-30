@@ -1,18 +1,17 @@
+### Project 
 
-A new Flutter project.
+# Based on a 30 seconds timer, display an "Out of Stock" label on a random product coming from SQLite DB. And after the next 10 seconds, if a user does not add that item to the cart then reset that item's quantity to zero in DB.
 
+## Images
 
-//images
+> Android Screenshot
 
+https://github.com/hetmangukiya2207/CartApp/assets/114165239/39b3f974-8f6d-4ae9-9714-b3d735ffea0c
 
-<img align = "left" src="https://github.com/vivekbaraiya0786/cart_app_viva/assets/126376629/b2ac29be-07e1-49f2-9570-4399fc744c7d" width="220px">
-<img align = "left" src="https://github.com/vivekbaraiya0786/cart_app_viva/assets/126376629/d1ec6954-4b9c-4e32-8b82-8eb18d18629c" width="220px">
-<img  src="https://github.com/vivekbaraiya0786/cart_app_viva/assets/126376629/d4a2742a-3ee7-40c3-b310-d627a43f3f8e" width="220px">
+> IOS Screenshot
 
-<img align = "left" src="https://github.com/vivekbaraiya0786/cart_app_viva/assets/126376629/d8152f67-f099-4620-8a36-3038b5a3e75f" width="220px">
-<img align = "left" src="(https://github.com/vivekbaraiya0786/cart_app_viva/assets/126376629/d8152f67-f099-4620-8a36-3038b5a3e75f" width="220px">
-<img  src="https://github.com/vivekbaraiya0786/cart_app_viva/assets/126376629/24e5cffd-b1e9-4a5d-9d50-c7b887ada1a3" width="220px">
+## Video
 
+> Android Video
 
-
-
+> IOS Video
