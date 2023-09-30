@@ -26,22 +26,38 @@ class _SplashScreenState extends State<SplashScreen> {
     Size s = MediaQuery.of(context).size;
     double h = s.height;
     double w = s.width;
-    return SafeArea(
-      child: Scaffold(
-        body: Center(
-          child: Container(
-            height: h * 0.8,
-            width: w * 0.8,
-            decoration: const BoxDecoration(
-              image: DecorationImage(
-                image: NetworkImage(
-                  "https://iconape.com/wp-content/png_logo_vector/istore-logo.png",
+    return (defaultTargetPlatform == TargetPlatform.android)
+        ? SafeArea(
+            child: Scaffold(
+              body: Center(
+                child: Container(
+                  height: h * 0.8,
+                  width: w * 0.8,
+                  decoration: const BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage(
+                        "https://iconape.com/wp-content/png_logo_vector/istore-logo.png",
+                      ),
+                    ),
+                  ),
                 ),
               ),
             ),
-          ),
-        ),
-      ),
-    );
+          )
+        : CupertinoPageScaffold(
+            child: Center(
+              child: Container(
+                height: h * 0.8,
+                width: w * 0.8,
+                decoration: const BoxDecoration(
+                  image: DecorationImage(
+                    image: AssetImage(
+                      "https://iconape.com/wp-content/png_logo_vector/istore-logo.png",
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          );
   }
 }
