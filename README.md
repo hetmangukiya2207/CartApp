@@ -1,6 +1,6 @@
-### Project 
+## Project 
 
-# Based on a 30 seconds timer, display an "Out of Stock" label on a random product coming from SQLite DB. And after the next 10 seconds, if a user does not add that item to the cart then reset that item's quantity to zero in DB.
+### Based on a 30 seconds timer, display an "Out of Stock" label on a random product coming from SQLite DB. And after the next 10 seconds, if a user does not add that item to the cart then reset that item's quantity to zero in DB.
 
 ## Images
 
