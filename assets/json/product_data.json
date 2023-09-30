@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "MackBook Pro M2",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spacegray-select-202206?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664497359481",
+    "quantity": 500
+  },
+  {
+    "id": 2,
+    "name": "IPhone 15",
+    "image": "https://i.gadgets360cdn.com/products/large/iphone-15-plus-553x800-1694549227.jpg",
+    "quantity": 114
+  },
+  {
+    "id": 3,
+    "name": "IPhone 15 Plus",
+    "image": "https://cdn1.smartprix.com/rx-iBzbDITOc-w420-h420/apple-iphone-15-plus.jpg",
+    "quantity": 58
+  },
+  {
+    "id": 4,
+    "name": "IPhone 15 Pro",
+    "image": "https://cdn1.smartprix.com/rx-iHbVjGgm6-w420-h420/apple-iphone-15-pro.jpg",
+    "quantity": 50
+  },
+  {
+    "id": 5,
+    "name": "IPhone 15 Pro Max",
+    "image": "https://cdn1.smartprix.com/rx-iDQuq4Vs5-w1200-h1200/DQuq4Vs5.jpg",
+    "quantity": 112
+  },
+  {
+    "id": 6,
+    "name": "IPhone 14",
+    "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 52
+  },
+  {
+    "id": 7,
+    "name": "IPhone 13",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=90",
+    "quantity": 44
+  },
+  {
+    "id": 8,
+    "name": "IWatch Series 7",
+    "image": "https://hindi.gadgetsnow.com/photo/86216302.cms",
+    "quantity": 38
+  } ,
+  {
+    "id": 9,
+    "name": "IWatch Series 9",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/untitled_-_2023-09-12t224205-sixteen_nine.jpg?size=1200:675",
+    "quantity": 22
+  },
+  {
+    "id": 10,
+    "name": "IWatch Series Ultra",
+    "image": "https://m.media-amazon.com/images/I/91z5KuonXrL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 18
+  }
+]
